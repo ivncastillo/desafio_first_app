@@ -54,3 +54,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+#Gemfile para lorem ipsum
+gem 'lorem_ipsum_amet', '~> 0.6.2'
